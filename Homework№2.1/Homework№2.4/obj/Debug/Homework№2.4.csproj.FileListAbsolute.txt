@@ -1,7 +1,0 @@
-C:\Users\Markidon\Desktop\GeekBrains\Homework№2.1\Homework№2.4\bin\Debug\Homework№2.4.exe.config
-C:\Users\Markidon\Desktop\GeekBrains\Homework№2.1\Homework№2.4\bin\Debug\Homework№2.4.exe
-C:\Users\Markidon\Desktop\GeekBrains\Homework№2.1\Homework№2.4\bin\Debug\Homework№2.4.pdb
-C:\Users\Markidon\Desktop\GeekBrains\Homework№2.1\Homework№2.4\obj\Debug\Homework№2.4.csproj.AssemblyReference.cache
-C:\Users\Markidon\Desktop\GeekBrains\Homework№2.1\Homework№2.4\obj\Debug\Homework№2.4.csproj.CoreCompileInputs.cache
-C:\Users\Markidon\Desktop\GeekBrains\Homework№2.1\Homework№2.4\obj\Debug\Homework№2.4.exe
-C:\Users\Markidon\Desktop\GeekBrains\Homework№2.1\Homework№2.4\obj\Debug\Homework№2.4.pdb
