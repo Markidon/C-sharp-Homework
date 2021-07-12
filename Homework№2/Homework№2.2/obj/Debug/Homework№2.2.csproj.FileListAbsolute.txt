@@ -1,0 +1,14 @@
+C:\Users\Markidon\Desktop\GeekBrains\Homework№2.1\Homework№2.2\bin\Debug\Homework№2.2.exe.config
+C:\Users\Markidon\Desktop\GeekBrains\Homework№2.1\Homework№2.2\bin\Debug\Homework№2.2.exe
+C:\Users\Markidon\Desktop\GeekBrains\Homework№2.1\Homework№2.2\bin\Debug\Homework№2.2.pdb
+C:\Users\Markidon\Desktop\GeekBrains\Homework№2.1\Homework№2.2\obj\Debug\Homework№2.2.csproj.AssemblyReference.cache
+C:\Users\Markidon\Desktop\GeekBrains\Homework№2.1\Homework№2.2\obj\Debug\Homework№2.2.csproj.CoreCompileInputs.cache
+C:\Users\Markidon\Desktop\GeekBrains\Homework№2.1\Homework№2.2\obj\Debug\Homework№2.2.exe
+C:\Users\Markidon\Desktop\GeekBrains\Homework№2.1\Homework№2.2\obj\Debug\Homework№2.2.pdb
+C:\Users\Markidon\Desktop\GeekBrains\Homework№2\Homework№2.2\bin\Debug\Homework№2.2.exe.config
+C:\Users\Markidon\Desktop\GeekBrains\Homework№2\Homework№2.2\bin\Debug\Homework№2.2.exe
+C:\Users\Markidon\Desktop\GeekBrains\Homework№2\Homework№2.2\bin\Debug\Homework№2.2.pdb
+C:\Users\Markidon\Desktop\GeekBrains\Homework№2\Homework№2.2\obj\Debug\Homework№2.2.csproj.AssemblyReference.cache
+C:\Users\Markidon\Desktop\GeekBrains\Homework№2\Homework№2.2\obj\Debug\Homework№2.2.csproj.CoreCompileInputs.cache
+C:\Users\Markidon\Desktop\GeekBrains\Homework№2\Homework№2.2\obj\Debug\Homework№2.2.exe
+C:\Users\Markidon\Desktop\GeekBrains\Homework№2\Homework№2.2\obj\Debug\Homework№2.2.pdb
